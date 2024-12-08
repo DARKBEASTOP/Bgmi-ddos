@@ -9,9 +9,9 @@ import time
 
 
 # insert your Telegram bot token here
-bot = telebot.TeleBot('7611382895HwD91hg2FgUmmX5j3y3RKoreojG9Uc')
+bot = telebot.TeleBot('8186143877:AAHAFnhPGALeR7Q2GXVf0iUvWYk9iTT1yB4')
 
-API_TOKEN = '7611382895D91hg2FgUmmX5j3y3RKo7ojG9Uc'  # Replace with your bot's API token
+API_TOKEN = '8186143877:AAHAFnhPGALeR7Q2GXVf0iUvWYk9iTT1yB4'  # Replace with your bot's API token
 bot = telebot.TeleBot(API_TOKEN)
 
 # Define the owner's user ID
